@@ -24,17 +24,17 @@ Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Insti
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif" width="100%" />
 </p>
 
-### 🧰 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 *Abaixo estão algumas tecnologias e ferramentas com as quais já tive contato e que continuo aperfeiçoando cada vez mais:*
 
-### 💻 Sistemas & Dados
+### Sistemas & Dados
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛡️ Defesa & Análise
+### Defesa & Análise
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-Chronicle%20%2F%20Splunk-000000?style=for-the-badge)
 
