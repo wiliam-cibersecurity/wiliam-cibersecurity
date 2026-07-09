@@ -10,7 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2286AE&center=true&width=435&lines=Estudante+de+Engenharia+de+Software;Seguran%C3%A7a+Defensiva;Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
 
-
 <p align="center">
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
 </p>
