@@ -4,6 +4,6 @@
 
 # Hey, I'm Wiliam Maia!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=138500&width=435&lines=Estudante+de+Engenharia+de+Software;Seguran%C3%A7a+Defensiva;Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=138500&center=true&width=435&lines=Estudante+de+Engenharia+de+Software;Seguran%C3%A7a+Defensiva;Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
 
 </div>
