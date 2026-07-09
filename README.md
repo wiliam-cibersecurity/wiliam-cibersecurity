@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um profissional em transição de carreira focado em Defesa Cibernética e Operações de Blue Team/Red Team. 
+Sou um profissional em transição de carreira focado em Operações Cibernéticas de Blue Team/Red Team. 
 
 Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Instituto Infnet.
 
