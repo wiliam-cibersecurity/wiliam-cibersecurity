@@ -27,7 +27,7 @@ Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Insti
 ### 🧰 Tecnologias & Ferramentas
 *Abaixo estão algumas tecnologias e ferramentas com as quais já tive contato e que continuo aperfeiçoando cada vez mais:*
 
-### 💻 O Essencial (Sistemas & Dados)
+### 💻 Sistemas & Dados
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
