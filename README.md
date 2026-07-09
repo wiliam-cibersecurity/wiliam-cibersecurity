@@ -14,7 +14,7 @@
 </p>
 
 
-## 🚀 Sobre Mim
+### 🚀 Sobre Mim
 
 Sou um profissional em transição de carreira focado em Defesa Cibernética e Operações de Blue Team/Red Team. 
 
@@ -24,7 +24,7 @@ Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Insti
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
 </p>
 
-## 🧰 Tecnologias & Ferramentas
+### 🧰 Tecnologias & Ferramentas
 *Abaixo estão algumas tecnologias e ferramentas com as quais já tive contato e que continuo aperfeiçoando cada vez mais:*
 
 ### 💻 O Essencial (Sistemas & Dados)
