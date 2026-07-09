@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <img src="(https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif)" width="100%" />
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
 </p>
 
 <br />
