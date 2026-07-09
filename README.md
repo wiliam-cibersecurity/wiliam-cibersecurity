@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2286AE&center=true&width=435&lines=Estudante+de+Engenharia+de+Software;Seguran%C3%A7a+Defensiva;Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif" width="100%" />
 </p>
 
 </div>
@@ -20,7 +20,7 @@ Sou um profissional em transição de carreira focado em Defesa Cibernética e O
 Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Instituto Infnet.
 
 <p align="center">
-  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif" width="100%" />
 </p>
 
 ### 🧰 Tecnologias & Ferramentas
