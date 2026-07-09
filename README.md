@@ -4,15 +4,17 @@
 
 # Olá, me chamo Wiliam Maia!
 
+<p align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2286AE&center=true&width=435&lines=Estudante+de+Engenharia+de+Software;Seguran%C3%A7a+Defensiva;Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
 
-<br />
 
 <p align="center">
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
 </p>
 
-<br />
 
 ## 🚀 Sobre Mim
 
@@ -20,7 +22,9 @@ Sou um profissional em transição de carreira focado em Defesa Cibernética e O
 
 Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Instituto Infnet.
 
-![Linha Divisória](https://github-readme-stroke-generator.vercel.app/api/stroke?color=00758F&theme=dark&height=5)
+<p align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" width="100%" />
+</p>
 
 ## 🧰 Tecnologias & Ferramentas
 *Abaixo estão algumas tecnologias e ferramentas com as quais já tive contato e que continuo aperfeiçoando cada vez mais:*
