@@ -36,3 +36,7 @@ Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Insti
 ### 🛡️ Defesa & Análise
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-Chronicle%20%2F%20Splunk-000000?style=for-the-badge)
+
+<p align="center">
+  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif" width="100%" />
+</p>
