@@ -4,6 +4,7 @@
 
 # Olá, me chamo Wiliam Maia!
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2286AE&center=true&width=435&lines=Estudante+de+Engenharia+de+Software;Seguran%C3%A7a+Defensiva;Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
 
