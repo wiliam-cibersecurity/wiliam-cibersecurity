@@ -18,7 +18,7 @@
 
 Sou um profissional em transição de carreira focado em Operações Cibernéticas de Blue Team/Red Team. 
 
-Atualmente, curso Engenharia de Software com Ênfase em Cibersegurança no Instituto Infnet.
+Atualmente, curso Engenharia de Cibersegurança no Instituto Infnet.
 
 <p align="center">
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif" width="100%" />
