@@ -14,7 +14,7 @@
 
 </div>
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Sou um profissional em transição de carreira focado em Operações Cibernéticas de Blue Team/Red Team. 
 
