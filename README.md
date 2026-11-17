@@ -47,7 +47,16 @@ Atualmente, curso Engenharia de Cibersegurança no Instituto Infnet.
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiliam-cibersecurity&show_icons=true&theme=dracula&hide=stars,prs,issues&hide_rank=true" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliam-cibersecurity&layout=compact&theme=dracula" alt="Linguagens" />
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=wiliam-cibersecurity&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliam-cibersecurity&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 <img src="https://raw.githubusercontent.com/wiliam-cibersecurity/wiliam-cibersecurity/output/github-snake-dark.svg" alt="Animação da Cobrinha do GitHub" />
