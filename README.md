@@ -27,7 +27,12 @@ Atualmente, curso Engenharia de Cibersegurança no Instituto Infnet.
 
 ### Sistemas & Dados
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Linguagens
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,3 +44,8 @@ Atualmente, curso Engenharia de Cibersegurança no Instituto Infnet.
 <p align="center">
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0386.gif" width="100%" />
 </p>
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliam-cibersecurity&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</div>
